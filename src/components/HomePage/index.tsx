@@ -27,6 +27,7 @@ function HomePage() {
               src="https://i.scdn.co/image/ab67706f0000000307513656a48fee81acc7e27d"
               alt=""
             />
+            
             <label>Coleção MPB</label>
           </div>
           <div className="opa">
