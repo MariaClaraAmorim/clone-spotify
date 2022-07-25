@@ -1,0 +1,37 @@
+/* .grid {
+	display: grid;
+}
+
+.logo {
+	grid-area: logo;
+}
+
+.nav {
+	grid-area: nav;
+}
+
+.content {
+	grid-area: content;
+}
+
+.sidenav {
+	grid-area: sidenav;
+}
+
+.advert {
+	grid-area: advert;
+}
+
+.footer {
+	grid-area: footer;
+}
+
+.grid-template-areas-3 {
+	grid-template-areas:
+		"logo logo"
+		"nav nav"
+		"content content"
+		"sidenav advert"
+		"footer footer"
+		;
+} */
